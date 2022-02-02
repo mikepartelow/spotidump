@@ -1,7 +1,7 @@
 FROM python:3.10
 RUN apt update -yq && \
     apt install less && \
-    pip install tekore apple-music-python
+    pip install tekore
 
 COPY app/ /spotidump
 
