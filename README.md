@@ -7,7 +7,7 @@
 ### Configure
 
 1. Get Spotify [Developer credentials](https://developer.spotify.com/dashboard/login)
-2. Create a [dumpus.json](dumpus.json.example)
+2. Create a [dumpus.json](app/dumpus.json.example)
 
 ### Run
 
